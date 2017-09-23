@@ -38,3 +38,6 @@ docs/_build
 
 # Cookiecutter
 output/
+
+# Private
+priv_key
