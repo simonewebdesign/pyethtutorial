@@ -13,4 +13,5 @@ nose = "*"
 coverage = "*"
 "pypi-publisher" = "*"
 "secp256k1" = "*"
+rlp = "*"
 
