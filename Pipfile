@@ -15,4 +15,5 @@ coverage = "*"
 "secp256k1" = "*"
 rlp = "*"
 ipaddress = "*"
+"pysha3" = "*"
 
